@@ -1,5 +1,0 @@
-flask
-opencv-python
-torch
-gunicorn
-yomitoku @ git+https://github.com/kotaro-kinoshita/yomitoku
