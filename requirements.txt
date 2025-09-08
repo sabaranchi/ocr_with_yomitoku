@@ -1,0 +1,4 @@
+gradio
+opencv-python
+torch
+yomitoku @ git+https://github.com/kotaro-kinoshita/yomitoku
