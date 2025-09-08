@@ -1,4 +1,4 @@
 flask
 opencv-python
 torch
-yomitoku @ git+https://github.com/hirofumi0810/yomitoku.git
+yomitoku @ git+https://github.com/kotaro-kinoshita/yomitoku
